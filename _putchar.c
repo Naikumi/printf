@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * _putchar - prints char
+ * _putchar - prints the char
  * @c: the character to print
  *
  * Return: 1 on success, -1  error and errno is set appropriately.
